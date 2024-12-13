@@ -1,3 +1,5 @@
+first download all the modules for the components in src and for the backend folder .
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
