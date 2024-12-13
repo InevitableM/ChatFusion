@@ -1,4 +1,7 @@
 first download all the modules for the components in src and for the backend folder .
+you need to enter the same room number to chat, multiple users can chat at a time , but 
+in video call only two users can interact. if more users try to access then the 
+server will stop working.
 
 # Getting Started with Create React App
 
